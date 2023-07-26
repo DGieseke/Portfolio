@@ -21,7 +21,7 @@ Thanks for visiting my data science portfolio.  This portfolio is composed of se
 <li>Prepared dynamic analyses and visualizations of metrics affecting King County real estate pricing
 <li><u>Tools/Languages Used</u>: Python | <u>Python libraries utilized</u>: Numpy, Pandas, scikit-learn, Seaborn, Statsmodels.api
 
-### Analysis of Movie Industry Data - <a href="hhttps://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data">GitHub Link</a>
+### Analysis of Movie Industry Data - <a href="https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data">GitHub Link</a>
 <li>Utilized datasets from IM.BD and The Numbers to analyze movie genres and release dates yielding highest return-on-investment (R.O.I.) and rating
 <li>Joined datasets utilizing both Python and SQL to perform analyses
 <li>Prepared multiple visualizations of trends of factors affecting movie R.O.I. and rating
