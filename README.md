@@ -1,7 +1,9 @@
 # Daniel Gieseke | Data Science Portfolio
 Thanks for visiting my data science portfolio.  This portfolio is composed of several data-focused projects showcasing my skills in analytics, machine learning, Python, SQL, and other data-oriented abilities. These projects are presented in the form of GitHub repositories, which link to the Jupyter Notebooks used to create my projects.  Below are quick links to these projects, and further down are quick synopses and visualizations of these projects.
 
-<b> Questions? </b> Feel free to contact me at daniel.tyler.gieseke@gmail.com
+<b> Interested in My Tableau Portfolio? </b> Please visit my Tableau Public portfolio <a href="https://public.tableau.com/app/profile/daniel.gieseke">here!</a>
+
+<b> Other Questions? </b> Feel free to contact me at daniel.tyler.gieseke@gmail.com
 
 ## Project Quick Links
 ### Global Life Expectancy Predictive Model - <a href="https://github.com/DGieseke/Global-Life-Expectancy-Predictions-Based-on-International-Metrics">GitHub Link</a>
