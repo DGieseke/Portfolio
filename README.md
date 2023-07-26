@@ -1,5 +1,5 @@
 # Daniel Gieseke | Data Science Portfolio
-Thanks for visiting my data science portfolio.  This portfolio is composed of several data-focused projects showcasing my skills in analytics, machine learning, Python, SQL, and other data-oriented abilities. These projects are presented in the form of GitHub repositories, which link to the Jupyter Notebooks used to create my projects.  Below are quick links to these projects, and further down are quick synopses and visualizations of these projects.
+Thanks for visiting my data science portfolio.  This portfolio is composed of several data-focused projects showcasing my skills in analytics, machine learning, Python, SQL, and other data-oriented abilities. These projects are presented in the form of GitHub repositories, which link to the Jupyter Notebooks used to create my projects.  Below are quick links to these projects, and further down are snapshots of the visualizations created in conjunction with these projects.
 
 <b> Interested in My Tableau Portfolio? </b> Please visit my Tableau Public portfolio <a href="https://public.tableau.com/app/profile/daniel.gieseke">here!</a>
 
@@ -30,3 +30,21 @@ Thanks for visiting my data science portfolio.  This portfolio is composed of se
 <li><u>Tools/Languages Used</u>: Python, SQL | <u>Python libraries utilized</u>: Numpy, Pandas, Seaborn
 
 ## Project Snapshots
+![Life Expectancy at Birth and Access to Electricity (1)](https://github.com/DGieseke/Portfolio/assets/130595612/e232021a-49f3-4b9a-b007-da3f66506616)
+
+### Twitter Sentiment Analysis of Apple and Google Products using Natural Language Processing 
+![image](https://github.com/DGieseke/Portfolio/assets/130595612/5f7a6d9e-7f90-40a4-801f-c2c7930fec55)
+
+<img width="885" alt="Screenshot 2023-07-26 at 11 45 29 AM" src="https://github.com/DGieseke/Portfolio/assets/130595612/165a3934-c9d0-471e-a4b7-435e440f1669">
+
+
+### Analysis of Movie Industry Data
+![image](https://github.com/DGieseke/Portfolio/assets/130595612/b238e265-f8e2-4419-8030-11c50410e66b)
+![image](https://github.com/DGieseke/Portfolio/assets/130595612/e7dda984-3cab-4a31-aa79-0b73fbbe7119)
+![image](https://github.com/DGieseke/Portfolio/assets/130595612/20aef02d-4676-4db3-b833-baa90727f664)
+
+
+
+
+
+
