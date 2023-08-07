@@ -36,6 +36,8 @@ Thanks for visiting my data science portfolio.  This portfolio is composed of se
 <li><u>Tools/Languages Used</u>: Python, SQL | <u>Python libraries utilized</u>: Numpy, Pandas, Seaborn
 
 ## Project Snapshots
+![image](https://github.com/DGieseke/Portfolio/assets/130595612/80d4225b-2d93-4da4-abff-0ae6ff113099)
+
 ![Life Expectancy at Birth and Access to Electricity (1)](https://github.com/DGieseke/Portfolio/assets/130595612/e232021a-49f3-4b9a-b007-da3f66506616)
 
 ### Twitter Sentiment Analysis of Apple and Google Products using Natural Language Processing 
