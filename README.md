@@ -6,6 +6,12 @@ Thanks for visiting my data science portfolio.  This portfolio is composed of se
 <b> Other Questions? </b> Feel free to contact me at daniel.tyler.gieseke@gmail.com
 
 ## Project Quick Links
+### Exploring and Predicting Electric Vehicle (EV) Adoption and Registrations -  <a href="https://github.com/DGieseke/Exploring-and-Predicting-EV-Registrations/tree/main">GitHub Link</a>,  <a href="https://github.com/DGieseke/Exploring-and-Predicting-EV-Registrations/blob/main/Predicting%20the%20Electric%20Vehicle%20Market%20-%20Report.pdf">Final Report Link</a>
+<li>Created multiple machine learning models predicting EV registrations by ZIP code using geographic and socioeconomic data
+<li>Joined datasets from several governmental agencies including data from the US Census Bureau and DMV data from the states of New York, New Jersey, and Connecticut
+<li>Prepared visualizations highlighting trends and variations in data and generated final report on project findings
+<li><u>Tools/Languages Used</u>: Python, Tableau | <u>Python libraries utilized</u>: Numpy, Pandas, scikit-learn, Seaborn, Plotly
+
 ### Global Life Expectancy Predictive Model - <a href="https://github.com/DGieseke/Global-Life-Expectancy-Predictions-Based-on-International-Metrics">GitHub Link</a>
 <li>Created machine learning model predicting “high” or “low” life expectancy at birth by country based on country-wide metrics with 98% accuracy
 <li>Prepared dynamic visualizations showcasing factors most correlated with life expectancy at birth by country
